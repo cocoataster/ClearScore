@@ -6,7 +6,7 @@
 
 ## Home Project
 
-Write an application that will display a donut view which pulls the credit score information from the endpoint given. The image below shows an example of what is to be achieved. The donut should display the correct value received from the endpoint.
+Write an application that will display a donut view which pulls the credit score information from the endpoint given. The donut should display the correct value received from the endpoint.
 
 ## Notes
 
